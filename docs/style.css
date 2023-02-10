@@ -3,9 +3,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
 
 body {
-	background: #383c4a;
+	background: black;
 }
 
+.background {
+	position: absolute;
+	display: block;
+	top: 0;
+	left: 0;
+	z-index: 0;
+}
 
 header ul li a {
 	color: white;
@@ -46,26 +53,26 @@ main {
 header {
 	font-family: monospace;
 	display: flex;
-	background: #5294e2;
+	background: darkred;
 	border-radius: 12px;
 }
 
 header h2 {
 	font-family: "Satisfy";
-	background: #383c4a;
+	background: black;
 	border-bottom-left-radius: 10px;
 	border-bottom-right-radius: -10px;
 	border-top-right-radius: -10px;
 	border-top-left-radius: 10px;
 	margin: 10px;
 	padding: 10px;
-	color: white;
+	color: red;
 }
 
 main h3 {
 	font-family: monospace;
 	color: white;
-	background: #404552;
+	background: #1d1d1d;
 	border-radius: 10px;
 	margin: 10px;
 	padding: 10px;
@@ -81,7 +88,7 @@ main ul li p {
 
 article {
 	color: white;
-	background: #5294e2;
+	background: darkred;
 	padding: 10px;
 	margin: 10px;
 	border-radius: 10px;
