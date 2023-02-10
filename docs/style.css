@@ -1,0 +1,88 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+body {
+	background: #383c4a;
+}
+
+
+header ul li a {
+	color: white;
+	text-decoration: none;
+	transition: .1s linear;
+}
+
+header ul li a:hover {
+	color: #383c4a;
+	text-decoration: none;
+}
+
+header ul li {
+	display: flex;
+	padding: 10px;
+}
+
+header ul {
+	display: flex;
+	padding: 10px;
+	margin: 10px;
+
+}
+
+main li {
+	display: flex;
+}
+main ul {
+	display: flex;
+	/*padding: 5px;*/
+	margin: 10px;
+}
+
+main {
+	font-family: "Josefin Sans";
+}
+
+header {
+	font-family: monospace;
+	display: flex;
+	background: #5294e2;
+	border-radius: 12px;
+}
+
+header h2 {
+	font-family: "Satisfy";
+	background: #383c4a;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: -10px;
+	border-top-right-radius: -10px;
+	border-top-left-radius: 10px;
+	margin: 10px;
+	padding: 10px;
+	color: white;
+}
+
+main h3 {
+	font-family: monospace;
+	color: white;
+	background: #404552;
+	border-radius: 10px;
+	margin: 10px;
+	padding: 10px;
+}
+main ul li p {
+	font-family: monospace;
+	color: black;
+	background: #404552;
+	border-radius: 10px;
+	margin: 10px;
+	padding: 10px;
+}
+
+article {
+	color: white;
+	background: #5294e2;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 10px;
+}
