@@ -1,5 +1,4 @@
-#AurumOS:Darwin
-### by AdaptiveSoftCorp
+AurumOS:Darwin
 ==========
 
 ![](https://raw.github.com/wiki/PureDarwin/PureDarwin/images/PD-Opennow.jpg)
