@@ -1,5 +1,0 @@
-add_subdirectory(libc)
-add_subdirectory(libdispatch)
-add_subdirectory(libplatform)
-add_subdirectory(libmalloc)
-add_subdirectory(libsystem_kernel)

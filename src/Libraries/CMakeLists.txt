@@ -1,5 +1,0 @@
-add_subdirectory(AvailabilityVersions)
-add_subdirectory(architecture)
-add_subdirectory(CrashReporterClient)
-add_subdirectory(libSystem)
-add_subdirectory(pthread)
